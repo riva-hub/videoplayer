@@ -1,1 +1,3 @@
-# videoplayer
+{
+  "آدرس": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/a3db5ffb1eba72e79bed87f2961f4f4431908313-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjAwODI2OTQ0NmZhM2IwNDg1Njk3MWNhMmMzMzNmNDdkIiwiZXhwIjoxNjE3NzM4MDEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.65ALj2XalUDek0ZGcVDoP1NxG97Munexrz9FBb_BEWw"
+}
